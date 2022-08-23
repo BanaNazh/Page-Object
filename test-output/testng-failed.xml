@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.juaracoding.pageobjecttwo.TestPostTestEightteen">
+      <class name="com.juaracoding.pageobjecttwo.TestPostTestNineteen">
         <methods>
-          <include name="closeBrowser"/>
-          <include name="pageObjectTwo"/>
-          <include name="testPostTestEightteen"/>
           <include name="setUp"/>
+          <include name="testPostTestNineteen"/>
+          <include name="pageObjectTwo"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- com.juaracoding.pageobjecttwo.TestPostTestEightteen -->
+      </class> <!-- com.juaracoding.pageobjecttwo.TestPostTestNineteen -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

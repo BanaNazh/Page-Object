@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-19T23:59:04 WIB" name="Default suite" finished-at="2022-08-19T23:59:50 WIB" duration-ms="45463">
+  <suite started-at="2022-08-24T02:08:39 WIB" name="Default suite" finished-at="2022-08-24T02:10:09 WIB" duration-ms="90238">
     <groups>
     </groups>
-    <test started-at="2022-08-19T23:59:04 WIB" name="Default test" finished-at="2022-08-19T23:59:50 WIB" duration-ms="45463">
-      <class name="com.juaracoding.pageobjecttwo.TestPostTestEightteen">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestEightteen@49d904ec]" started-at="2022-08-19T23:59:04 WIB" name="setUp" finished-at="2022-08-19T23:59:10 WIB" duration-ms="5827" status="PASS">
+    <test started-at="2022-08-24T02:08:39 WIB" name="Default test" finished-at="2022-08-24T02:10:09 WIB" duration-ms="90238">
+      <class name="com.juaracoding.pageobjecttwo.TestPostTestNineteen">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestNineteen@49d904ec]" started-at="2022-08-24T02:08:39 WIB" name="setUp" finished-at="2022-08-24T02:08:45 WIB" duration-ms="6193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="pageObjectTwo()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestEightteen@49d904ec]" started-at="2022-08-19T23:59:10 WIB" name="pageObjectTwo" finished-at="2022-08-19T23:59:10 WIB" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="pageObjectTwo()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestNineteen@49d904ec]" started-at="2022-08-24T02:08:45 WIB" name="pageObjectTwo" finished-at="2022-08-24T02:08:45 WIB" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageObjectTwo -->
-        <test-method signature="testPostTestEightteen()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestEightteen@49d904ec]" started-at="2022-08-19T23:59:10 WIB" name="testPostTestEightteen" finished-at="2022-08-19T23:59:46 WIB" duration-ms="36354" status="PASS">
+        <test-method signature="testPostTestNineteen()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestNineteen@49d904ec]" started-at="2022-08-24T02:08:45 WIB" name="testPostTestNineteen" finished-at="2022-08-24T02:10:06 WIB" duration-ms="80733" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPostTestEightteen -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestEightteen@49d904ec]" started-at="2022-08-19T23:59:46 WIB" name="closeBrowser" finished-at="2022-08-19T23:59:50 WIB" duration-ms="3224" status="PASS">
+        </test-method> <!-- testPostTestNineteen -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.juaracoding.pageobjecttwo.TestPostTestNineteen@49d904ec]" started-at="2022-08-24T02:10:06 WIB" name="closeBrowser" finished-at="2022-08-24T02:10:09 WIB" duration-ms="3249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- com.juaracoding.pageobjecttwo.TestPostTestEightteen -->
+      </class> <!-- com.juaracoding.pageobjecttwo.TestPostTestNineteen -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
